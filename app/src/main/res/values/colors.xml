@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorTransparent">#00ffffff</color>
+
+    <color name="colorGradientStart">#AD38AF</color>
+    <color name="colorGradientCenter">#AE83DB</color>
+    <color name="colorGradientEnd">#E1D4F0</color>
+    <color name="colorx">#8A62B6</color>
+    <color name="colorjam">#7A48AC</color>
+
+
+</resources>
